@@ -1,0 +1,5 @@
+$DATA1
+$OPTION MEASFORM=3
+.TITLE '* the first line is always a comment'
+delay_read,temper,alter#
+ 1.116e-10, 2.700e+01,1
